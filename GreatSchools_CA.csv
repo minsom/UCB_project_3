@@ -1,0 +1,401 @@
+gsId,name,type,gradeRange,enrollment,parentRating,gsRating,district,districtId,districtNCESId,ncesId,address,city,state,lat,lon,phone
+402,Acalanes High School,public,9-12,1423,4,10,Acalanes Union High School District,39,601650,060165000032,"1200 Pleasant Hill Road, 
+Lafayette, CA  94549",Lafayette,CA,37.904312,-122.09906,(925) 280-3970
+791,Addams Elementary School,public,K-6,824,4,3,Fresno Unified School District,99,614550,061455001703,"2117 West Mckinley Avenue, 
+Fresno, CA  93728",Fresno,CA,36.764687,-119.83641,(559) 457-2510
+954,Abraham Lincoln Middle School,public,7-8,994,5,4,Selma Unified School District,115,636270,063627001989,"1239 Nelson Boulevard, 
+Selma, CA  93662",Selma,CA,36.58507,-119.60203,(559) 898-6600
+1180,Adelante High School,public,9-12,3,4,6,Reef-sunset Unified School District,197,632270,063227002047,"701 General Petroleum Street, 
+Kettleman City, CA  93239",Kettleman City,CA,36.00824,-119.96231,(559) 386-9081
+1300,A. M. Thomas Middle School,public,6-8,170,5,1,Lost Hills Union Elementary School District,221,622950,062295007772,"20979 Lobos Court, 
+Lost Hills, CA  93249",Lost Hills,CA,35.61527,-119.69955,(661) 797-2626
+1786,Abraham Lincoln Elementary School,public,K-6,506,5,9,Glendale Unified School District,277,615240,061524001937,"4310 New York Avenue, 
+La Crescenta, CA  91214",La Crescenta,CA,34.22807,-118.25298,(818) 249-1863
+1887,Accelerated School,charter,K-8,763,3,4,Los Angeles Unified School District,286,622710,062271003245,"4000 South Main Street, 
+Los Angeles, CA  90037",Los Angeles,CA,34.010433,-118.27393,(323) 235-6343
+2198,Abraham Lincoln Senior High School,public,9-12,2045,3,5,Los Angeles Unified School District,286,622710,062271003139,"3501 North Broadway, 
+Los Angeles, CA  90031",Los Angeles,CA,34.07387,-118.20386,(323) 441-4600
+2535,Ada S. Nelson Elementary School,public,K-6,502,4,6,Los Nietos School District,291,622890,062289003501,"8140 South Vicki Drive, 
+Whittier, CA  90606",Whittier,CA,33.970703,-118.07567,(562) 692-0615
+2537,Addams Elementary School,public,K-5,928,4,5,Long Beach Unified School District,292,622500,062250002695,"5320 Pine Avenue, 
+Long Beach, CA  90805",Long Beach,CA,33.852776,-118.19166,(562) 428-0202
+2767,Abraham Lincoln School,public,K-5,636,5,8,Paramount Unified School District,303,629850,062985004650,"15324 California Avenue, 
+Paramount, CA  90723",Paramount,CA,33.893658,-118.15869,(562) 602-8036
+2857,Adams Middle School,public,6-8,994,4,8,Redondo Beach Unified School District,307,600032,060003204949,"2600 Ripley Avenue, 
+Redondo Beach, CA  90278",Redondo Beach,CA,33.867092,-118.36332,(310) 798-8636
+3400,Ada Givens Elementary School,public,K-6,482,4,3,Merced City Elementary School District,415,624600,062460003686,"2900 Green Street, 
+Merced, CA  95340",Merced,CA,37.305054,-120.45375,(209) 385-6610
+3435,Adaline E. Kent Middle School,public,5-8,573,4,9,Kentfield Elementary School District,427,619380,061938002329,"800 College Avenue, 
+Kentfield, CA  94904",Kentfield,CA,37.95264,-122.54926,(415) 458-5970
+3685,A. E. Arnold Elementary School,public,K-6,730,4,7,Cypress Elementary School District,470,610440,061044001166,"9281 Denni St, 
+Cypress, CA  90630",Cypress,CA,33.826893,-118.05512,(714) 220-6965
+3713,Acacia Elementary School,public,K-6,716,4,10,Fullerton Elementary School District,473,614730,061473001790,"1200 North Acacia Avenue, 
+Fullerton, CA  92831",Fullerton,CA,33.88209,-117.89845,(714) 447-7700
+3742,A. J. Cook Elementary School,public,K-6,355,4,10,Garden Grove Unified School District,474,614880,061488001834,"9802 Woodbury Avenue, 
+Garden Grove, CA  92844",Garden Grove,CA,33.763634,-117.9584,(714) 663-6251
+3873,Adams Elementary School,public,PK-6,423,4,5,Newport-Mesa Unified School District,482,627240,062724009593,"2850 Club House Road, 
+Costa Mesa, CA  92626",Costa Mesa,CA,33.674343,-117.93196,(714) 424-7935
+3887,Abraham Lincoln Elementary School,public,K-6,561,5,7,Newport-Mesa Unified School District,482,627240,062724000755,"3101 Pacific View Drive, 
+Corona Del Mar, CA  92625",Corona Del Mar,CA,33.610317,-117.8601,(949) 515-6955
+4015,Adams Elementary School,public,K-5,506,5,4,Santa Ana Unified School District,487,635310,063531005981,"2130 South Raitt Street, 
+Santa Ana, CA  92704",Santa Ana,CA,33.717823,-117.89608,(714) 430-5900
+4034,Abraham Lincoln Elementary School,public,K-5,923,3,2,Santa Ana Unified School District,487,635310,063531005993,"425 South Sullivan, 
+Santa Ana, CA  92704",Santa Ana,CA,33.740757,-117.90255,(714) 972-6200
+4069,A. G. Currie Middle School,public,6-8,776,4,3,Tustin Unified School District,489,640150,064015006636,"1402 Sycamore Avenue, 
+Tustin, CA  92780",Tustin,CA,33.72601,-117.82508,(714) 730-7360
+4151,Adelante High (Continuation) School,public,9-12,102,4,6,Roseville Joint Union High School District,507,633630,063363005189,"350 Atlantic Street, 
+Roseville, CA  95678",Roseville,CA,38.752953,-121.28002,(916) 782-3155
+4294,Abraham Lincoln Elementary School,public,K-5,618,4,5,Desert Sands Unified School District,520,611110,061111001230,"74-100 Rutledge Way, 
+Palm Desert, CA  92260",Palm Desert,CA,33.73332,-116.37177,(760) 862-4340
+4306,Acacia Middle School,public,6-8,746,3,2,Hemet Unified School District,521,616920,061692002148,"1200 East Acacia Avenue, 
+Hemet, CA  92543",Hemet,CA,33.744034,-116.95826,(951) 765-1620
+4447,Adams Elementary School,public,PK-6,513,4,3,Riverside Unified School District,532,633150,063315005129,"8362 Colorado Avenue, 
+Riverside, CA  92504",Riverside,CA,33.944767,-117.43552,(951) 352-6709
+4468,Abraham Lincoln Continuation School,public,9-12,198,5,2,Riverside Unified School District,532,633150,063315005148,"4341 Victoria Avenue, 
+Riverside, CA  92507",Riverside,CA,33.971134,-117.36598,(951) 788-7371
+4719,Abraham Lincoln Elementary School,public,K-6,438,3,3,Sacramento City Unified School District,553,633840,063384005218,"3324 Glenmoor Drive, 
+Sacramento, CA  95827",Sacramento,CA,38.571594,-121.31276,(916) 228-5830
+4743,A. M. Winn Waldorf-Inspired K-8,public,K-8,365,3,2,Sacramento City Unified School District,553,633840,063384005217,"3351 Explorer Drive, 
+Sacramento, CA  95827",Sacramento,CA,38.56654,-121.32497,(916) 228-5880
+4881,Adams Elementary School,public,K-6,555,4,6,Santa Barbara Unified School District,1224,601414,060141406015,"2701 Las Positas Road, 
+Santa Barbara, CA  93105",Santa Barbara,CA,34.43263,-119.73364,(805) 563-2515
+4904,Adam (William Laird) Elementary School,public,K-6,1036,4,3,Santa Maria-Bonita School District,574,605580,060558009312,"500 West Windsor, 
+Santa Maria, CA  93458",Santa Maria,CA,34.9356,-120.4426,(805) 361-6700
+4947,Adelanto Elementary School,public,K-5,493,3,1,Adelanto Elementary School District,591,601710,060171000038,"17931 Jonathan Street, 
+Adelanto, CA  92301",Adelanto,CA,34.576164,-117.40944,(760) 246-5892
+5058,Abraham Lincoln Elementary School,public,K-6,697,4,4,Colton Joint Unified School District,601,609390,060939000951,"444 East Olive Street, 
+Colton, CA  92324",Colton,CA,34.077503,-117.31785,(909) 876-4176
+5371,A. J. Dorsa Elementary School,public,K-5,489,4,2,Alum Rock Union Elementary School District,625,602310,060231000103,"1290 Bal Harbor Drive, 
+San Jose, CA  95122",San Jose,CA,37.3391,-121.83791,(408) 928-7400
+5439,Abraham Lincoln Elementary School,public,K-5,663,4,9,Cupertino Union School District,631,610290,061029001139,"21710 Mcclellan Road, 
+Cupertino, CA  95014",Cupertino,CA,37.315468,-122.05336,(408) 252-4798
+5603,Addison Elementary School,public,K-5,475,5,7,Palo Alto Unified School District,652,629610,062961004579,"650 Addison Avenue, 
+Palo Alto, CA  94301",Palo Alto,CA,37.446186,-122.15111,(650) 322-5935
+5647,Adrian Wilcox High School,public,9-12,1977,4,8,Santa Clara Unified School District,654,635430,063543006055,"3250 Monroe Street, 
+Santa Clara, CA  95051",Santa Clara,CA,37.366875,-121.98578,(408) 423-2400
+5675,Abraham Lincoln High School,public,9-12,1903,5,7,San Jose Unified School District,655,634590,063459005696,"555 Dana Avenue, 
+San Jose, CA  95126",San Jose,CA,37.329212,-121.92388,(408) 535-6300
+5797,Ada W. Harris Elementary School,public,3-6,353,4,8,Cardiff Elementary School District,675,607470,060747000706,"1508 Windsor Road, 
+Cardiff-By-The-Sea, CA  92007",Cardiff-By-The-Sea,CA,33.03128,-117.27349,(760) 632-5894
+6025,Abraxas Continuation High School,public,9-12,248,5,5,Poway Unified School District,699,631530,063153004883,"12450 Glenoak Road, 
+Poway, CA  92064",Poway,CA,32.973675,-117.06088,(858) 748-5900
+6026,Adobe Bluffs Elementary School,public,K-5,352,4,9,Poway Unified School District,699,631530,063153001203,"8707 Adobe Bluffs Drive, 
+San Diego, CA  92129",San Diego,CA,32.97427,-117.14039,(858) 538-8403
+6093,Adams Elementary School,public,K-5,318,4,4,San Diego Unified School District,705,634320,063432005407,"4672 35th Street, 
+San Diego, CA  92116",San Diego,CA,32.76156,-117.11786,(619) 362-4200
+6619,Adams Elementary School,public,K-8,558,2,2,Stockton Unified School District,759,638010,063801006398,"6402 Inglewood Avenue, 
+Stockton, CA  95207",Stockton,CA,38.00908,-121.31598,(209) 933-7155
+6922,Adelante Spanish Immersion School,public,K-5,579,5,5,Redwood City Elementary School District,795,632130,063213007421,"3150 Granger Way, 
+Redwood City, CA  94061",Redwood City,CA,37.454227,-122.24339,(650) 482-2401
+6955,Abbott Middle School,public,6-8,808,4,5,San Mateo-Foster City School District,799,634920,063492005896,"600 36th Avenue, 
+San Mateo, CA  94403",San Mateo,CA,37.529526,-122.30884,(650) 312-7600
+7108,Abraham Lincoln Elementary School,public,K-6,358,4,9,Santa Rosa Elementary School District,834,635810,063581006125,"850 West Ninth Street, 
+Santa Rosa, CA  95401",Santa Rosa,CA,38.44161,-122.73655,(707) 890-3940
+7579,Acacia Elementary School,public,K-5,322,5,6,Conejo Valley Unified School District,1011,609640,060964001004,"55 Norman Avenue, 
+Thousand Oaks, CA  91360",Thousand Oaks,CA,34.196533,-118.87445,(805) 495-5550
+7652,Adolfo Camarillo High School,public,9-12,2418,3,8,Oxnard Union High School District,1020,629270,062927004516,"4660 Mission Oaks Boulevard, 
+Camarillo, CA  93012",Camarillo,CA,34.219437,-119.00781,(805) 389-6407
+7753,Academy Of Technology & Leadership At Saticoy,public,K-5,354,4,6,Ventura Unified School District,1029,640980,064098006765,"760 Jazmin Avenue, 
+Ventura, CA  93004",Ventura,CA,34.284676,-119.1602,(805) 672-2701
+8387,Academy Of Our Lady Of Peace,private,9-12,747,4,7,Los Angeles Unified School District,286,622710,00077164,"4860 Oregon Street, 
+San Diego, CA  92116",San Diego,CA,32.765125,-117.13578,(619) 297-2266
+8564,Abiding Savior Lutheran School,private,K-8,269,4,9,Abc Unified School District,246,601620,00081272,"23262 El Toro Road, 
+Lake Forest, CA  92630",Lake Forest,CA,33.624626,-117.69472,(949) 830-1461
+8851,"Achieve, Inc. School",private,K-12,233,5,7,Paradise Unified School District,36,629820,00089577,"3860 Middlefield Road, 
+Palo Alto, CA  94303",Palo Alto,CA,37.421936,-122.112144,(650) 494-1200
+9065,Adventist Christian School,private,K-8,22,5,8,Santa Ana Unified School District,487,635310,00096416,"369 Harding Road, 
+Yuba City, CA  95993",Yuba City,CA,39.12312,-121.65364,(530) 673-7645
+9199,Abc Little School-Sherman Oaks,private,K-1,88,4,9,Abc Unified School District,246,601620,01898328,"14926 Burbank Boulevard, 
+Los Angeles, CA  91411",Los Angeles,CA,34.171818,-118.45836,(818) 786-0301
+9276,Achiever Christian School,private,PK-8,236,4,7,Paradise Unified School District,36,629820,01900554,"540 Sands Drive, 
+San Jose, CA  95125",San Jose,CA,37.2886,-121.8732,(408) 264-6789
+9507,Abraham Joshua Heschel Day School,private,K-8,361,4,9,Abc Unified School District,246,601620,02157581,"17701 Devonshire Street, 
+Los Angeles, CA  91325",Los Angeles,CA,34.258606,-118.52034,(818) 368-5781
+9557,ABC Little School,private,K-2,86,5,2,Sacramento City Unified School District,553,633840,A9100483,"6447 Woodman Avenue, 
+Van Nuys, CA  91401",Van Nuys,CA,34.188076,-118.43155,(818) 786-5169
+9561,Accelerated Learning Academy,private,6-12,492,4,5,Los Angeles Unified School District,286,622710,A9100495,"P.O. Box 2186, 
+Lancaster, CA  93539",Lancaster,CA,34.6982,-118.1359,(661) 940-1636
+9562,Adat Ari Elementary Day School,private,K-6,108,5,8,Redondo Beach Unified School District,307,600032,A9100497,"12020 Burbank Boulevard, 
+Los Angeles, CA  91607",Los Angeles,CA,34.17182,-118.39514,(818) 766-4992
+9563,Adda Clevenger School,private,K-8,124,4,8,Redondo Beach Unified School District,307,600032,A9100498,"180 Fair Oaks Street, 
+San Francisco, CA  94110",San Francisco,CA,37.7537,-122.42452,(415) 824-2240
+9564,Acts Advanced Christian Training Schools,private,K-12,90,5,4,Oakland Unified School District,14,628050,A1500137,"3025 Adelaida Road, 
+Paso Robles, CA  93446",Paso Robles,CA,35.650322,-120.74909,(805) 239-0707
+10297,Advanced Education Services-North Haven,private,K-12,15,3,8,Bonita Unified School District,256,605610,A9500657,"225 South Hope Street, 
+Ukiah, CA  95482",Ukiah,CA,39.147995,-123.215126,(707) 947-7553
+10315,Acts Christian Academy,private,K-8,90,3,4,Oakland Unified School District,14,628050,A9500695,"1034 66th Avenue, 
+Oakland, CA  94621",Oakland,CA,37.758633,-122.196045,(510) 568-3333
+10389,Advanced Education Services-Live Oak School,private,3-12,15,5,8,Bonita Unified School District,256,605610,A9500889,"10776 Fremont Street, 
+Yucaipa, CA  92399",Yucaipa,CA,34.058056,-117.026695,(909) 790-9474
+10477,ASA Silver Lake School,private,1-9,64,5,2,Abc Unified School District,246,601620,A9700494,"2772 Rowena Avenue, 
+Los Angeles, CA  90039",Los Angeles,CA,34.107254,-118.26445,(323) 666-6706
+10659,ABC Educational Center,private,K,365,4,2,Sacramento City Unified School District,553,633840,BB910149,"1129 Cole Ave, 
+Los Angeles, CA  90038",Los Angeles,CA,34.09149,-118.330185,(323) 466-9984
+10921,Abraham Lincoln Alternative School,public,K-12,98,4,2,Southern Kern Unified School District,238,637620,063762002045,"2601 Rosamond Boulevard, 
+Rosamond, CA  93560",Rosamond,CA,34.864185,-118.17812,(661) 256-5090
+11161,Academic/Vocational Charter Institute,charter,9-12,50,5,3,Pajaro Valley Unified School District,666,629490,062949008366,"112 Diamond Drive, 
+Watsonville, CA  95076",Watsonville,CA,36.923912,-121.77228,(831) 728-6225
+11296,ABC Little School,private,K-1,50,4,2,Sacramento City Unified School District,553,633840,A9302116,"927 North Fairfax Avenue, 
+West Hollywood, CA  90046",West Hollywood,CA,34.08807,-118.36188,(323) 654-9920
+11340,A. F. Williams Christian Academy,private,K-5,730,3,7,Cypress Elementary School District,470,610440,A9900190,"1437 West Centinela Avenue, 
+Inglewood, CA  90302",Inglewood,CA,33.9767,-118.3647,(310) 674-8835
+11342,Adat Y'shua Academy - Woodland Hills,private,2-9,108,5,8,Redondo Beach Unified School District,307,600032,A9900193,"Po Box 814, 
+Los Angeles, CA  91365",Los Angeles,CA,34.17,-118.61,(818) 222-0200
+11645,"Acaciawood School, Inc.",private,1-12,106,3,2,Hemet Unified School District,521,616920,BB980189,"2530 West La Palma Avenue, 
+Anaheim, CA  92801",Anaheim,CA,33.846375,-117.97349,(714) 995-1800
+11684,Acorn Woodland Elementary School,public,K-5,292,5,4,Oakland Unified School District,14,628050,062805010730,"1025 81st Avenue, 
+Oakland, CA  94621",Oakland,CA,37.75286,-122.18605,(510) 639-3344
+11752,Academy Of The Canyons,public,9-12,395,4,8,William S. Hart Union High School District,326,642510,064251008517,"26455 Rockwell Canyon Road, 
+Santa Clarita, CA  91355",Santa Clarita,CA,34.40719,-118.56758,(661) 362-3056
+11811,Abby Reinke Elementary School,public,K-5,808,4,9,Temecula Valley Unified School District,535,600028,060002808271,"43799 Sunny Meadows Drive, 
+Temecula, CA  92592",Temecula,CA,33.491802,-117.08607,(951) 302-6610
+11863,Adelante Charter School,charter,K-6,274,5,2,Santa Barbara Unified School District,1224,601414,060141408628,"1102 East Yanonali Street, 
+Santa Barbara, CA  93103",Santa Barbara,CA,34.425632,-119.67914,(805) 966-7392
+11910,ASCEND School,charter,K-8,433,4,4,Oakland Unified School District,14,628050,062805008677,"3709 East 12th Street, 
+Oakland, CA  94601",Oakland,CA,37.774033,-122.22166,(510) 879-3140
+11946,ABC Secondary (Alternative) School,public,7-12,64,5,2,Abc Unified School District,246,601620,060162010232,"16534 South Carmenita Road, 
+Cerritos, CA  90703",Cerritos,CA,33.881546,-118.04635,(562) 229-7768
+12098,Adele Harrison Middle School,public,6-8,415,4,5,Sonoma Valley Unified School District,833,637200,063720010436,"1150 Broadway, 
+Sonoma, CA  95476",Sonoma,CA,38.28001,-122.45867,(707) 935-6080
+12173,Accelerated Achievement Academy,charter,4-12,160,4,3,Ukiah Unified School District,373,640300,064030010552,"1031 North State Street, 
+Ukiah, CA  95482",Ukiah,CA,39.16202,-123.20958,(707) 463-7080
+12210,Academy for Academic Excellence,charter,K-12,1412,4,7,Apple Valley Unified School District,593,600017,060001707296,"17500 Mana Road, 
+Apple Valley, CA  92307",Apple Valley,CA,34.532814,-117.2783,(760) 946-5414
+12265,Academy Just for Kids,private,PK-5,703,4,2,Los Angeles Unified School District,286,622710,None,"6221 Fallbrook Avenue, 
+Woodland Hills, CA  91367",Woodland Hills,CA,34.1832,-118.6234,(818) 347-3398
+12742,Advantage Preparatory Schools,private,K-12,15,5,8,Santa Ana Unified School District,487,635310,BB020281,"22589 Hickory Place, 
+Santa Clarita, CA  91390",Santa Clarita,CA,34.463646,-118.530174,(661) 296-5466
+12968,A Plus Adventist Elementary School,private,K-1,37,4,2,Beaumont Unified School District,515,604290,AA000004,"234 North Isabel, 
+Glendale, CA  91206",Glendale,CA,34.148796,-118.248856,(818) 241-9353
+13424,A Better Chance / California Autism Foundation,private,K-12,29,4,2,Beaumont Unified School District,515,604290,K9300854,"4138 Lakeside Drive, 
+Richmond, CA  94806",Richmond,CA,37.988487,-122.33088,(510) 262-1500
+13655,Adult Education Program,public,n/a,1977,4,8,East Side Union High School District,632,611820,061182013454,"625 Educational Park Drive, 
+San Jose, CA  95133",San Jose,CA,37.36564,-121.85906,(408) 928-9300
+13670,Adult Education,public,n/a,1977,4,8,Conejo Valley Unified School District,1011,609640,060964013333,"1025 Old Farm Road, 
+Thousand Oaks, CA  91360",Thousand Oaks,CA,34.205055,-118.86036,(805) 497-2761
+13702,Adult Education,public,n/a,1977,4,8,Ceres Unified School District,876,608130,060813012588,"2491 Lawrence Street, 
+Ceres, CA  95307",Ceres,CA,37.590195,-120.94979,(209) 556-1557
+13789,Adult Education,public,n/a,1977,4,8,Washington Unified School District,1039,641580,064158013524,"919 Westacre Road, 
+West Sacramento, CA  95691",West Sacramento,CA,38.57792,-121.52947,(916) 375-7901
+13809,Accelerated Elementary Charter School,charter,K-6,492,4,5,Los Angeles Unified School District,286,622710,062271010830,"3914 S. Main Street, 
+Los Angeles, CA  90037",Los Angeles,CA,34.011574,-118.27364,(323) 846-6694
+13813,Adult Division Center,public,n/a,1977,4,8,Whittier Union High School District,327,642480,064248013392,"9401 South Painter Avenue, 
+Whittier, CA  90605",Whittier,CA,33.952347,-118.04392,(562) 698-8121
+13855,Abram Friedman Occupational,public,n/a,2045,4,5,Los Angeles Unified School District,286,622710,062271013497,"1646 South Olive Street, 
+Los Angeles, CA  90015",Los Angeles,CA,34.034588,-118.26528,(213) 765-2400
+13985,Adult Education,public,n/a,1977,4,8,Vacaville Unified School District,766,640590,064059013406,"100-A Mcclellan Street, 
+Vacaville, CA  95688",Vacaville,CA,38.358513,-121.98361,(707) 453-6018
+14001,A. Warren Mcclaskey Adult Center,public,n/a,365,4,2,Sacramento City Unified School District,553,633840,063384013258,"5241 J Street, 
+Sacramento, CA  95819",Sacramento,CA,38.566467,-121.43915,(916) 277-6625
+14062,Adult Education Division,public,n/a,1977,4,8,Jefferson Union High School District,787,618930,061893013224,"699 Serramonte Boulevard, Suite 111, 
+Daly City, CA  94015",Daly City,CA,37.66842,-122.47754,(650) 550-7890
+14086,Adult Education,public,n/a,1977,4,8,Mountain View-Los Altos Union High School District,649,626310,062631013505,"333 Moffett Boulevard, 
+Mountain View, CA  94043",Mountain View,CA,37.398544,-122.07506,(650) 940-1333
+14144,Acalanes Center For Independent Study,public,9-12,39,5,5,Acalanes Union High School District,39,601650,060165010751,"1963 Tice Valley Boulevard, 
+Walnut Creek, CA  94595",Walnut Creek,CA,37.877663,-122.07422,(925) 280-3945
+14207,Adelante Dual Language Academy,public,K-8,586,4,6,Alum Rock Union Elementary School District,625,602310,060231011793,"2999 Ridgemont Drive, 
+San Jose, CA  95127",San Jose,CA,37.34457,-121.81271,(408) 928-1900
+14301,Adult Education,public,n/a,1977,4,8,Saddleback Valley Unified School District,486,633860,063386013572,"25598 Peter A. Hartman Way, 
+Mission Viejo, CA  92691",Mission Viejo,CA,33.620697,-117.68383,(949) 837-8830
+14316,Adult Education,public,n/a,1977,4,8,Garden Grove Unified School District,474,614880,061488012598,"11262 Garden Grove Boulevard, 
+Garden Grove, CA  92843",Garden Grove,CA,33.774162,-117.93564,(714) 663-6305
+14475,Adult And Community Education,public,n/a,1977,4,8,Fremont Union High School District,635,614430,061443013651,"591 West Fremont Avenue, 
+Sunnyvale, CA  94087",Sunnyvale,CA,37.353874,-122.0377,(408) 522-2700
+14500,A. L. Conner Elementary School,public,PK-5,328,2,4,Kings Canyon Joint Unified School District,101,619700,061970010780,"222 Fourth Street, 
+Orange Cove, CA  93646",Orange Cove,CA,36.629883,-119.30945,(559) 305-7200
+14525,Academy Of The Redwoods,public,9-12,178,5,8,Fortuna Union High School District,144,614190,061419010801,"7351 Tompkins Hill Road, 
+Eureka, CA  95501",Eureka,CA,40.69822,-124.19641,(707) 476-4203
+14603,Adult And Career Education,public,n/a,1977,4,8,Pomona Unified School District,305,631320,063132013326,"1515 West Mission Boulevard, 
+Pomona, CA  91766",Pomona,CA,34.05483,-117.77258,(909) 469-2333
+14730,Acalanes Adult Education Center,public,n/a,477,4,3,Acalanes Union High School District,39,601650,060165013557,"1963 Tice Valley Boulevard, 
+Walnut Creek, CA  94595",Walnut Creek,CA,37.87668,-122.07251,(925) 280-3980
+14756,Adult Alternative Education,public,n/a,1977,4,8,Jurupa Unified School District,522,619260,061926013518,"4041 Pacific Avenue, 
+Jurupa Valley, CA  92509",Jurupa Valley,CA,34.000977,-117.4221,(951) 222-7739
+14767,Abc Adult,public,n/a,808,4,9,Abc Unified School District,246,601620,060162012587,"12254 Cuesta Drive, 
+Cerritos, CA  90703",Cerritos,CA,33.878925,-118.07128,(562) 229-7960
+14888,Access County Community School,public,K-12,2576,4,4,Orange County Department Of Education School District,1088,691024,069102410567,"200 Kalmus Drive, 
+Costa Mesa, CA  92628",Costa Mesa,CA,33.672234,-117.8806,(714) 245-6403
+15116,Achievekids School,private,K-12,51,5,7,Paradise Unified School District,36,629820,02013335,"1212 McGinness Avenue, 
+San Jose, CA  95127",San Jose,CA,37.351105,-121.8227,(408) 928-5777
+15133,A Tutoring Place High School,private,3-12,37,4,2,Beaumont Unified School District,515,604290,A0300099,"2781 Stonecrest Ct, 
+Placerville, CA  95667",Placerville,CA,38.738472,-120.77508,(530) 642-3018
+15134,ABC Hope for Kids,private,"PK-6, 8-12",365,4,2,Sacramento City Unified School District,553,633840,A0300102,"1720 Mountain View Ave, 
+Loma Linda, CA  92354",Loma Linda,CA,34.071114,-117.24364,(909) 478-9035
+15135,"Abc Little School, Studio City",private,K,88,4,9,Abc Unified School District,246,601620,A0300103,"11728 Moorpark Street, 
+Los Angeles, CA  91604",Los Angeles,CA,34.150017,-118.388756,(818) 766-5557
+15137,ABC Reign Accelerated Learning,private,"K, 2-3, 5-6",50,4,2,Sacramento City Unified School District,553,633840,A0300107,"1408 Stetson Ave, 
+Modesto, CA  95350",Modesto,CA,37.6645,-121.010765,(209) 522-2222
+15375,Abc Childcare Center,private,K,130,4,9,Abc Unified School District,246,601620,A0307071,"29705 Solana Way, 
+Temecula, CA  92591",Temecula,CA,33.51755,-117.1455,(951) 699-5251
+15947,A Bright Beginning,private,K-6,37,3,2,Beaumont Unified School District,515,604290,None,"2440 West Manchester Boulevard, 
+Inglewood, CA  90305",Inglewood,CA,33.959675,-118.32065,(323) 753-0043
+15952,Academic Academy Center,private,1-12,469,5,4,Los Angeles Unified School District,286,622710,None,"4321 West Hawthorne, 
+Hawthorne, CA  90250",Hawthorne,CA,33.91643,-118.35267,(424) 262-9554
+15953,Academie Bien Cultive (ABC),private,K-12,50,5,3,Pajaro Valley Unified School District,666,629490,None,"422 West School Street, 
+Compton, CA  90220",Compton,CA,33.897385,-118.229774,(562) 595-3566
+15954,Academy for Arts & Education,private,9-12,1412,5,7,Apple Valley Unified School District,593,600017,None,"1479 East Broadway Boulevard, 
+Glendale, CA  91205",Glendale,CA,34.1463,-118.2317,(818) 551-1078
+15956,Adat Y'shua Academy,private,K-11,108,5,8,Redondo Beach Unified School District,307,600032,None,"2891 Fairbanks Avenue, 
+Simi Valley, CA  93063",Simi Valley,CA,34.287617,-118.713104,(818) 222-0200
+16083,Advanced Education Academy,private,1-12,15,5,8,Bonita Unified School District,256,605610,None,"4490 Cornishon Avenue, 
+La Canada, CA  91011",La Canada,CA,34.20516,-118.20324,(818) 952-1900
+16333,Advanced Education Services-Whitewater High School,private,7-12,15,3,8,Bonita Unified School District,256,605610,None,"55860 Haugen-Lehmann, 
+White Water, CA  92282",White Water,CA,33.925133,-116.68899,(760) 320-7271
+16439,Advanced Education Services-Live Oak,private,K-12,15,5,8,Bonita Unified School District,256,605610,None,"34030 Avenue J, 
+Yucaipa, CA  92399",Yucaipa,CA,34.0066,-117.0624,(909) 795-3635
+16518,Academy of Exploration International,private,K-12,12,5,7,Apple Valley Unified School District,593,600017,None,"2890 Poplar Meadow Court, 
+Jamul, CA  91935",Jamul,CA,32.7091,-116.8839,(619) 825-9833
+16760,A. L. C. C. A.,private,K-12,489,4,2,Alum Rock Union Elementary School District,625,602310,None,"1309 Pelton Avenue, 
+Modesto, CA  95351",Modesto,CA,37.6165,-121.0096,(209) 522-5390
+16838,Achieve Charter School Of Paradise Inc.,charter,K-8,233,5,7,Paradise Unified School District,36,629820,062982011571,"771 Elliott Rd, 
+Paradise, CA  95969",Paradise,CA,39.760323,-121.62078,(530) 872-4100
+16907,Adelante High School,public,10-12,61,4,6,Riverbank Unified School District,894,600061,060006111814,"6801 Seventh Street, 
+Riverbank, CA  95367",Riverbank,CA,37.737003,-120.92894,(209) 869-2383
+16965,Adams (J. Douglas) Middle School,public,6-8,1167,4,8,Brentwood Union Elementary School District,41,605910,060591011574,"401 American Avenue, 
+Brentwood, CA  94513",Brentwood,CA,37.918976,-121.75556,(925) 513-6480
+17021,Academy For Change,public,7-12,14,5,6,Chico Unified School District,26,608370,060837011853,"290 East Avenue, 
+Chico, CA  95926",Chico,CA,39.758522,-121.85838,(530) 891-3092
+17066,Achieve Academy,charter,K-5,746,4,3,Oakland Unified School District,14,628050,062805011561,"1700 28th Avenue, 
+Oakland, CA  94621",Oakland,CA,37.782078,-122.22671,(510) 904-6440
+17077,Adult Education,public,n/a,1977,4,8,Upland Unified School District,621,600016,060001613489,"565 West 11th Street, 
+Upland, CA  91786",Upland,CA,34.10452,-117.65869,(909) 949-7862
+17161,Academy of the Two Hearts,private,K-12,477,4,3,Los Angeles Unified School District,286,622710,None,"1540 South Walker Avenue, 
+San Pedro, CA  90731",San Pedro,CA,33.7303,-118.3034,(310) 832-3534
+17239,Acme Academy,private,1-12,236,5,7,Paradise Unified School District,36,629820,None,"11071 Langley Drive, 
+Los Alamitos, CA  90720",Los Alamitos,CA,33.8014,-118.0527,(562) 480-6186
+17301,Abc School,private,K-12,88,5,9,Abc Unified School District,246,601620,None,"4540 Harlin Avenue, 
+Sacramento, CA  95826",Sacramento,CA,38.535458,-121.35735,(916) 364-7800
+17662, 	Alliance Patti And Peter Neuwirth Leadership Academy ,charter,9-12,630,5,7,Los Angeles Unified School District,286,622710,062271011632,"4610 South Main Street, 
+Los Angeles, CA  90037",Los Angeles,CA,34.001568,-118.27383,(213) 342-2874
+18225,Abc School House,private,K,28,5,9,Abc Unified School District,246,601620,A0770225,"4102 West Victory Boulevard, 
+Burbank, CA  91505",Burbank,CA,34.184578,-118.35574,(818) 862-8466
+23791,Above And Beyond Academy,private,K-12,269,5,9,Abc Unified School District,246,601620,None,"68 Amador Court, 
+Bay Point, CA  94565",Bay Point,CA,38.02307,-121.94037,(925) 261-1755
+23809,A.C.E.S.,private,1-12,365,4,2,Sacramento City Unified School District,553,633840,None,"3001 Pico Avenue, 
+Clovis, CA  93619",Clovis,CA,36.80193,-119.654686,(559) 291-8101
+23828,A Children's Place,private,K-8,37,3,2,Beaumont Unified School District,515,604290,None,"11125 Atlantic Street, 
+Lynwood, CA  90262",Lynwood,CA,33.92711,-118.18535,(310) 639-4708
+23829,Academy for Arts & Education,private,9-12,1412,5,7,Apple Valley Unified School District,593,600017,None,"5721 Mammoth Avenue, 
+Valley Glen, CA  91401",Valley Glen,CA,34.1746,-118.432655,(818) 551-1078
+23969,Aaron Skinner Private School,private,K-11,433,5,4,Oakland Unified School District,14,628050,None,"2115 Moonlight Court, 
+Palmdale, CA  93550",Palmdale,CA,34.56135,-118.0906,(661) 480-6132
+24131,A Better Chance School/Cal Autism Foundation,private,4-12,37,4,2,Beaumont Unified School District,515,604290,A0500119,"4138 Lakeside Drive, 
+Richmond, CA  94806",Richmond,CA,37.988487,-122.33088,(510) 262-1500
+24132,A Bright Beginning,private,K,37,3,2,Beaumont Unified School District,515,604290,A0770216,"503 S Prairie Ave, 
+Inglewood, CA  90301",Inglewood,CA,33.958355,-118.34416,(310) 693-0700
+24674,Academy Of Careers And Exploration,charter,7-12,288,5,4,Helendale Elementary School District,605,616860,061686012368,"13943 Rivers Edge Road, 
+Helendale, CA  92342",Helendale,CA,34.73465,-117.36048,(760) 952-1266
+24681,Ace Charter School,charter,5-8,351,5,2,Santa Clara County Office Of Education School District,1116,691035,069103512198,"625 South Sunset Avenue, 
+San Jose, CA  95116",San Jose,CA,37.348602,-121.8446,(408) 729-3920
+24758,Academic Leadership Community School,public,9-12,472,5,3,Los Angeles Unified School District,286,622710,062271012314,"322 Lucas Avenue, 
+Los Angeles, CA  90017",Los Angeles,CA,34.058064,-118.2617,(213) 240-3815
+25029,Ada Clegg Elementary School,public,K-5,562,3,8,Westminster Elementary School District,490,642150,064215012492,"6311 Larchwood Drive, 
+Huntington Beach, CA  92647",Huntington Beach,CA,33.74695,-118.01978,(714) 894-7218
+25078,Academia Moderna,charter,K-5,469,4,4,Los Angeles Unified School District,286,622710,062271012455,"2410 Broadway, 
+Walnut Park, CA  90255",Walnut Park,CA,33.967144,-118.22965,(323) 923-0383
+25079,Academy Of Arts And Sciences,public,9-12,318,2,4,San Francisco Unified School District,717,634410,063441012526,"555 Portola Drive, 
+San Francisco, CA  94131",San Francisco,CA,37.745872,-122.44998,(415) 695-5700
+25255,Academia Avance Charter,charter,6-12,437,5,4,Sbe - Academia Avance Charter School District,1655,601435,060143510895,"115 North Avenue 53, 
+Los Angeles, CA  90042",Los Angeles,CA,34.10729,-118.19842,(323) 230-7270
+25380,Accelerated Achievement Academy,public,4-8,139,5,10,Hollister School District,583,617340,061734012565,"1151 Buena Vista Road, 
+Hollister, CA  95023",Hollister,CA,36.857246,-121.41773,(831) 636-4460
+25507,Academy of Science and Engineering,private,10-12,200,5,7,Apple Valley Unified School District,593,600017,None,"5753 Rodeo Road, 
+Los Angeles, CA  90016",Los Angeles,CA,34.022003,-118.37114,(323) 545-1100
+25734,Academy of Scientific Exploration (ASE),public,9-12,477,4,3,Los Angeles Unified School District,286,622710,062271012858,"1001 Arroyo Avenue, 
+San Fernando, CA  91340",San Fernando,CA,34.288464,-118.42073,(818) 838-3926
+25833,A Shepherd's Heart Christian School,private,K-12,37,4,2,Beaumont Unified School District,515,604290,None,"225 West Winton Avenue, 
+Hayward, CA  94544",Hayward,CA,37.658833,-122.09631,(510) 581-8081
+25923,A Bright Beginning Cdc,private,K-6,37,3,2,Beaumont Unified School District,515,604290,None,"712 East Manchester Boulevard, 
+Inglewood, CA  90301",Inglewood,CA,33.959488,-118.34594,(310) 673-4525
+25924,A Different Spirit Academy,private,1-12,37,3,2,Beaumont Unified School District,515,604290,None,"9a Officers Road, 
+San Pedro, CA  90731",San Pedro,CA,33.719597,-118.286896,(505) 452-6090
+25925,A Higher Learning CDC. Inc. School,private,K-8,37,3,2,Beaumont Unified School District,515,604290,None,"3581 East Imperial Highway, 
+Lynwood, CA  90262",Lynwood,CA,33.930775,-118.20588,(310) 639-4708
+25926,Abbah's Children,private,6-12,433,5,4,Oakland Unified School District,14,628050,None,"2718 West Tichenor Street, 
+Compton, CA  90220",Compton,CA,33.883076,-118.25707,(310) 604-9973
+25927,Academie Authentique School,private,6-12,50,5,3,Pajaro Valley Unified School District,666,629490,None,"422 West School Street, 
+Compton, CA  90220",Compton,CA,33.897385,-118.229774,(562) 279-5428
+25928,Academy For Advancement Of Children With,private,K-12,331,5,6,Antelope Valley Union High School District,250,602820,None,"10824 Topanga Canyon Boulevard, 
+Los Angeles, CA  91311",Los Angeles,CA,34.266636,-118.60536,(818) 882-0200
+25929,Academy Of The Two Hearts,private,K-12,178,5,8,Fortuna Union High School District,144,614190,None,"406 33rd Place, 
+Hermosa Beach, CA  90254",Hermosa Beach,CA,33.87681,-118.4043,(310) 374-6780
+26136,Adonai Ministries Christian School,private,1-6,2418,3,8,Oxnard Union High School District,1020,629270,None,"15572 Grand Avenue, 
+Lake Elsinore, CA  92530",Lake Elsinore,CA,33.6609,-117.38003,(951) 609-0942
+26175,Academy Of Private Classic Education,private,1-12,747,4,7,Los Angeles Unified School District,286,622710,None,"7412 Hollyhock Court, 
+Citrus Heights, CA  95621",Citrus Heights,CA,38.70066,-121.30693,(916) 725-8316
+26193,Abc School Ontario,private,K-12,28,5,9,Abc Unified School District,246,601620,None,"2234 East 4th Street, 
+Ontario, CA  91764",Ontario,CA,34.076973,-117.60328,(909) 204-4142
+26194,Abc123 Christian Academy,private,K-1,28,5,9,Abc Unified School District,246,601620,None,"3270 Inland Empire Boulevard, 
+Ontario, CA  91764",Ontario,CA,34.071266,-117.57945,(909) 527-8650
+26195,Advanced Education Services - Hill View School,private,3-12,15,5,8,Bonita Unified School District,256,605610,None,"18136 Jurupa Avenue, 
+Bloomington, CA  92316",Bloomington,CA,34.049595,-117.40798,(909) 546-1996
+26376,A Little Piece of Heaven School,private,K-12,37,3,2,Beaumont Unified School District,515,604290,None,"6826 Airport Road, 
+Redding, CA  96002",Redding,CA,40.48576,-122.29345,(530) 365-1267
+26408,Adventist Christian Elementary School,private,1-8,14,5,8,Santa Ana Unified School District,487,635310,A1100063,"720 South Jackson Street, 
+Red Bluff, CA  96080",Red Bluff,CA,40.163445,-122.23846,(530) 527-1486
+26869,Academy Of Amherst Jr-Sr High School,private,10-12,703,4,2,Los Angeles Unified School District,286,622710,BB100068,"13440 Crewe Street, 
+Los Angeles, CA  91405",Los Angeles,CA,34.196564,-118.42598,(818) 503-7869
+26980,Academies Of The Antelope Valley,charter,7-12,331,5,6,Antelope Valley Union High School District,250,602820,060282013154,"6300 West Avenue L, 
+Quartz Hill, CA  93536",Quartz Hill,CA,34.66014,-118.24104,(661) 948-7655
+27016,Academy For Multiligual Arts And Science At Mervyn M. Dymally High,public,9-12,703,5,2,Los Angeles Unified School District,286,622710,062271013079,"8800 South San Pedro Street, 
+Los Angeles, CA  90003",Los Angeles,CA,33.95715,-118.26875,(323) 565-4600
+27020,Academies Of Education And Empowerment At Carson High,public,9-12,563,5,6,Los Angeles Unified School District,286,622710,062271013040,"22328 South Main Street, 
+Carson, CA  90745",Carson,CA,33.82392,-118.27585,(310) 847-1455
+27021,Academy Of Medical Arts At Carson High,public,9-12,510,5,7,Los Angeles Unified School District,286,622710,062271013104,"22328 South Main Street, 
+Carson, CA  90745",Carson,CA,33.82392,-118.27585,(310) 847-1465
+27064,Adelanto High School,public,9-12,1750,3,3,Victor Valley Union High School District,623,636972,063697212990,"15620 Joshua Street, 
+Adelanto, CA  92392",Adelanto,CA,34.531548,-117.441284,(760) 246-3909
+27108,Ace Charter High,charter,9-12,267,4,3,East Side Union High School District,632,611820,061182013023,"1776 Educational Park Drive, 
+San Jose, CA  95133",San Jose,CA,37.36675,-121.85791,(408) 251-1362
+27160,Adult Education Eastside Union,public,n/a,1977,4,8,East Side Union High School District,632,611820,061182013240,"625 Education Park Drive, 
+San Jose, CA  95133",San Jose,CA,37.36564,-121.85906,(408) 928-9300
+30550,Abundant Joy Christian School,private,K-12,248,5,5,Poway Unified School District,699,631530,A1100060,"1420 Oasis Lane, 
+Patterson, CA  95363",Patterson,CA,37.46366,-121.15467,(209) 408-3618
+30552,Adat Shalom,private,K-7,108,5,8,Redondo Beach Unified School District,307,600032,BB120051,"3030 Westwood Boulevard, 
+Los Angeles, CA  90034",Los Angeles,CA,34.030514,-118.420395,(310) 474-0197
+30553,Advantage Preparatory Schools,private,K-12,92,5,8,Santa Ana Unified School District,487,635310,BB120190,"22589 Hickory Place, 
+Santa Clarita, CA  91390",Santa Clarita,CA,34.463646,-118.530174,(661) 296-5466
+31265,Across Stepping Stones,private,2-4,292,5,4,Oakland Unified School District,14,628050,None,"237 West Ridgecrest Boulevard, 
+Ridgecrest, CA  93555",Ridgecrest,CA,35.622173,-117.6741,(760) 301-0888
+31275,Academie Des Autodidactes,private,7-12,50,5,3,Pajaro Valley Unified School District,666,629490,None,"422 West School Street, Admin Office, 
+Compton, CA  90220",Compton,CA,33.880356,-118.23512,(562) 279-5428
+31276,Academy For Advancement Of Children With Autism-Av,private,K-12,331,5,6,Antelope Valley Union High School District,250,602820,None,"6742 East Avenue H, 
+Lancaster, CA  93535",Lancaster,CA,34.71883,-118.00875,(661) 946-1234
+31378,Abc Academy,private,7-12,808,4,9,Temecula Valley Unified School District,535,600028,None,"1345 Cabrillo Park Drive, 
+Santa Ana, CA  92701",Santa Ana,CA,33.757244,-117.84034,(949) 689-9012
+31379,Academy On The Hills,private,K-1,165,5,8,Fortuna Union High School District,144,614190,BB120290,"10 Mareblu, 
+Aliso Viejo, CA  92656",Aliso Viejo,CA,33.572662,-117.7034,(949) 360-7022
+31466,Abc123 Christian Academy,private,K-3,28,5,9,Abc Unified School District,246,601620,None,"15428 Civic Drive, 
+Victorville, CA  92392",Victorville,CA,34.510162,-117.327,(760) 243-5800
+31467,Advanced Education Services-Mountain View,private,3-12,15,5,8,Bonita Unified School District,256,605610,None,"8500 Escondido Avenue, 
+Hesperia, CA  92344",Hesperia,CA,34.407196,-117.37209,(760) 947-7553
+31492,Academia De Talar,private,K-8,7,5,4,Sbe - Academia Avance Charter School District,1655,601435,A1500131,"31430 Calle De Talar, 
+Bonsall, CA  92003",Bonsall,CA,33.28445,-117.16767,(760) 616-0827
+31493,Academy Of The Pines,private,K-12,395,4,8,William S. Hart Union High School District,326,642510,None,"853 15th Street, 
+San Diego, CA  92154",San Diego,CA,32.581352,-117.100685,(619) 429-8835
+31545,Abundant Life Academy,private,K-12,248,5,5,Poway Unified School District,699,631530,None,"16500 North Ripon Road, 
+Ripon, CA  95366",Ripon,CA,37.81315,-121.12549,(209) 234-4320
+31604,Advanced Learning Academy,private,1-8,15,3,8,Bonita Unified School District,256,605610,None,"122 Scott Street, 
+Santa Rosa, CA  95401",Santa Rosa,CA,38.4425,-122.72397,(707) 527-6617
+31740,Acton Academy Venice Beach,private,1-12,17,5,4,Oakland Unified School District,14,628050,None,"Lincoln and Venice, 
+Venice, CA  90291",Venice,CA,33.99401,-118.452644,(312) 498-9872
+31844,21st Century Learning Institute,public,K-12,100,5,2,Beaumont Unified School District,515,604290,060429013779,"939 Michigan Avenue, 
+Beaumont, CA  92223",Beaumont,CA,33.93465,-116.96888,(951) 769-8424
+32040,Adult Transition Program,public,n/a,1977,4,8,Bonita Unified School District,256,605610,060561013847,"800 West Covina Boulevard, 
+San Dimas, CA  91773",San Dimas,CA,34.097866,-117.82516,(909) 971-8230
+32222,Ace Franklin Mckinley,charter,5-8,224,5,2,Franklin-Mckinley Elementary School District,634,614370,061437013740,"1665 Santee Drive, 
+San Jose, CA  95112",San Jose,CA,37.328014,-121.84531,(408) 729-3420
+32226,Ace Inspire Academy,charter,5-8,111,5,4,San Jose Unified School District,655,634590,063459013852,"1155 East Julian Street, 
+San Jose, CA  95112",San Jose,CA,37.350983,-121.87205,(408) 295-6008
+32246,Adult Education,public,n/a,1977,4,8,Red Bluff Joint Union High School District,932,632010,063201014160,"1050 Kimball Road, 
+Red Bluff, CA  96080",Red Bluff,CA,40.158306,-122.24203,(530) 529-8766
+32348,+Impact School,private,9-12,25,5,7,Los Angeles Unified School District,286,622710,None,"9753 Ellington Lane, 
+Truckee, CA  96161",Truckee,CA,39.307655,-120.159195,(530) 536-5333
+32426,Accelerated Charter High,charter,9-12,139,5,10,Tulare Joint Union High School District,990,639930,063993013976,"4136 North Mooney Boulevard, 
+Tulare, CA  93274",Tulare,CA,36.251266,-119.31294,(559) 688-2021
+32571,Achieve Charter High,charter,9-12,746,4,3,Butte County Office Of Education School District,1087,691002,None,"5850 Clark Road, 
+Paradise, CA  95969",Paradise,CA,39.755367,-121.60713,(530) 872-4100
+32659,Advanced Learning Academy,charter,3-12,15,3,8,Santa Ana Unified School District,487,635310,063531014192,"335 East Walnut Avenue, 
+Santa Ana, CA  92701",Santa Ana,CA,33.795094,-117.85013,(714) 480-4300
+32732,Adelante Dual Language Academy Ii,public,K-3,586,4,6,Alum Rock Union Elementary School District,625,602310,060231014147,"1970 Cinerella Lane, 
+San Jose, CA  95116",San Jose,CA,37.344196,-121.84039,(408) 928-7107
