@@ -17,6 +17,10 @@ def index():
 
 
 
+@app.route("/survey")
+def survey():
+    return render_template('survey.html')
+
 
 ##################################################
 ## Soyoung and Elise's : /jsonShootingData
@@ -36,11 +40,12 @@ def index():
 #     # fill empty values(NaN) to prevent SyntaxError in browser
 #     df.fillna('NaN',inplace=True)
 #     df["location"] = df["location"].map(lambda l: to_json(l.replace("'", '"')))
-   
+
 #     return jsonify(df.to_dict(orient="records"))
 
 
 
 
 if __name__ == "__main__":
+
     app.run(debug=True)

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>School Shooting Dashboard</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Sanchez" rel="stylesheet">
+
+  <!--jQuery-->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <!--Bootstrap components CSS-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+
+  <!-- Icons -->
+  <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  <script src="{{ url_for('static', filename='css/style.css') }}"></script>
+
+  <!--D3-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+  body {
+  color: black;
+  background-color: lightblue;
+}
+h5 {
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(110, 190, 74);
+    padding: 25px
+}
+
+
+  </style>
+</head>
+
+
+
+
+<body >
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+  <a class="navbar-brand" href="/">BB4</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+<div  class="container-fluid"  style="margin-left: 1px;background-color:Grey">
+
+<div class="row">
+        <div class="col-md-3">
+       <div class="jumbotron" style="text-align: center">
+      <h1>Predict your school rating!</h1>
+
+    </div>
+        </div>
+
+</div>
+</div>
+
+
+<div " class="container-fluid" >
+  <section style="padding: 20px">
+       <div class="row whitespace">
+         <h1>See What Factors Impact School Ratings</h1>
+       </div>
+       <p class ="text-left">Adjust the sliders below to see how different features impact school rating.</p>
+<br>
+<br>
+<br>
+<br>
+       <div class="row">
+
+         <div class="col-md-3">
+           <div class="slidecontainer">
+             <h3>Parent Rating</h3>
+             <input class="slider" id="PCI"
+               type="range" min="1" max="5" step="1" value="1" oninput="outputUpdate(this.value)">
+             <output for="PCI" id="pciOUT"> 1 </output>
+           </div>
+         </div>
+
+         <div class="col-md-3">
+           <div class="slidecontainer">
+             <h3># of enrolled students</h3>
+             <input class="slider" id="Pov"
+             type="range" min="0" max="1500" step="100" value="100" oninput="outputUpdate2(this.value)">
+             <output for="Pov" id="PovOUT"> 100 </output>
+           </div>
+         </div>
+
+     <div class="col-md-3">
+         <div class="slidecontainer">
+             <h3>% Asian students</h3>
+             <input class="slider" id="Asian"
+             type="range" min="0" max="100" step="1" value="0" oninput="outputUpdate3(this.value)">
+             <output for="Asian" id="asianOUT"> 0 </output>
+        </div>
+     </div>
+      <div class="col-md-3">  </div>
+      </div>
+
+      <br>
+
+     <div class="row">
+         <div class="col-md-2"></div>
+       </div>
+
+       <h5 id="Total">School Rating = 3/10</h5>
+       <script>
+         function outputUpdate(pciOUT) {
+         document.querySelector('#pciOUT').value = pciOUT;
+         CHPS()
+         }
+         function outputUpdate2(povOUT) {
+           document.querySelector('#PovOUT').value = povOUT;
+           CHPS()
+         }
+         function outputUpdate3(asianOUT) {
+           document.querySelector('#asianOUT').value = asianOUT;
+           CHPS()
+         }
+         function CHPS(){
+           var PCI = document.getElementById('PCI').value;
+           var Pov = document.getElementById('Pov').value;
+           var Asian = document.getElementById('Asian').value;
+           var pciOUT = document.getElementById('pciOUT').value;
+           var povOUT = document.getElementById('PovOUT').value;
+           var asianOUT = document.getElementById('asianOUT').value;
+           var Total = ((PCI * 0.50271394) + (Pov * 0.00057691) + (Asian * 0.04423715)  + 2.45499487).toFixed(2);
+           // Total = Total.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+           document.getElementById('Total').innerHTML = "School Rating = "+ Total +"/10";
+         }
+       </script>
+     </section>
+                </div>
+
+<br>
+
+
+
+</body>
+
+ <!-- MomentJS -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+
+  <!-- Icons -->
+  <script src="static/js/leaflet.extra-markers.min.js"></script>
+
+  <!-- polyfill.io is library for using newer JavaScript features in older browers (such as Object.assign) -->
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+
+  <!-- Our JavaScript -->
+  <script src="{{ url_for('static', filename='js/huy.js') }}"></script>
+</html>
