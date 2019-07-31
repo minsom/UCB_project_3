@@ -16,9 +16,13 @@ def index():
     return render_template('index.html')
 
 
+<<<<<<< HEAD
 @app.route("/survey")
 def survey():
     return render_template('survey.html')
+=======
+
+>>>>>>> ed4f758fb3430c876934239f8de04c4f17c55dc6
 
 ##################################################
 ## Soyoung and Elise's : /jsonShootingData
@@ -38,11 +42,19 @@ def survey():
 #     # fill empty values(NaN) to prevent SyntaxError in browser
 #     df.fillna('NaN',inplace=True)
 #     df["location"] = df["location"].map(lambda l: to_json(l.replace("'", '"')))
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> ed4f758fb3430c876934239f8de04c4f17c55dc6
 #     return jsonify(df.to_dict(orient="records"))
 
 
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(debug=True)
+=======
+    app.run(debug=True)
+>>>>>>> ed4f758fb3430c876934239f8de04c4f17c55dc6
