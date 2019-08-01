@@ -113,7 +113,16 @@ h5 {
              <output for="Pov" id="PovOUT"> 100 </output>
            </div>
          </div>
-
+      
+      <div class="col-md-3">  
+            <div class="slidecontainer">
+             <h3>% 1st/2nd year teachers</h3>
+             <input class="slider" id="Teacher"
+             type="range" min="0" max="100" step="1" value="0" oninput="outputUpdate4(this.value)">
+             <output for="Teacher" id="teacherOUT"> 0 </output>
+        </div>
+      </div>
+     
      <div class="col-md-3">
          <div class="slidecontainer">
              <h3>% Asian students</h3>
@@ -122,7 +131,7 @@ h5 {
              <output for="Asian" id="asianOUT"> 0 </output>
         </div>
      </div>
-      <div class="col-md-3">  </div>
+
       </div>
 
       <br>
@@ -145,14 +154,21 @@ h5 {
            document.querySelector('#asianOUT').value = asianOUT;
            CHPS()
          }
+         function outputUpdate4(teacherOUT) {
+           document.querySelector('#teacherOUT').value = teacherOUT;
+           CHPS()
+         }
+         
          function CHPS(){
            var PCI = document.getElementById('PCI').value;
            var Pov = document.getElementById('Pov').value;
            var Asian = document.getElementById('Asian').value;
+           var Teacher = document.getElementById('Teacher').value;
            var pciOUT = document.getElementById('pciOUT').value;
            var povOUT = document.getElementById('PovOUT').value;
            var asianOUT = document.getElementById('asianOUT').value;
-           var Total = ((PCI * 0.50271394) + (Pov * 0.00057691) + (Asian * 0.04423715)  + 2.45499487).toFixed(2);
+           var teacherOUT = document.getElementById('teacherOUT').value;
+           var Total = ((PCI * 0.50428568) + (Pov * 0.00056589) + (Asian * 0.04440304) + (Teacher * -0.00287547) + 2.45499487).toFixed(2);
            // Total = Total.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
            document.getElementById('Total').innerHTML = "School Rating = "+ Total +"/10";
          }
